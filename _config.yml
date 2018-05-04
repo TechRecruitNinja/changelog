@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+#theme: minima
+title: TechRecruit Ninja Changelog
+email: support@techrecruit.ninja
+description: A changelog for our users.
+logo: https://techrecruit.ninja/assets/images/ninja.png
+url: "https://techrecruit.ninja/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: techrecninja
+github_username:  techrecruitninja
+facebook_username: techrecruitninja
+show_excerpts: true
